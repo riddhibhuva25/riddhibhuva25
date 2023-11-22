@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="resources/droid.mp4"
+  <img  src="resources/droid.gif"
        alt="snake" /></a>
 </div>
 
