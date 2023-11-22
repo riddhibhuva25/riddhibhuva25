@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="user-content-toc" style="text-align: center;">
-  <ul>
+  <ul align="center">
     <summary><h1 style="display: inline-block; margin-bottom: 10px;">Hey There! I'm Riddhi</h1></summary>
     <subheading><h6 style="margin-top: 5px;">Android Developer</h6></subheading>
   </ul>
@@ -10,7 +10,7 @@
 
 <!--- droid -->
 <div align="center">
-  <img  src="https://images.fonearena.com/blog/wp-content/uploads/2023/09/Android-new-logo-robotics.gif"  
+  <img  src="resources/droid.gif"  
        alt="droid" /></a>
 </div>
 
