@@ -13,8 +13,8 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hey There! I'm Riddhi</h1></summary>
-    <subheading><h6 style="">Android Developer</h6></subheading>
+    <summary><h1>Hey There! I'm Riddhi</h1></summary>
+    <subheading><h6>Android Developer</h6></subheading>
   </ul>
 </div>
 
