@@ -12,7 +12,7 @@
 
 <!--- droid -->
 <div align="center">
-  <img  src="resources/droid.gif"
+  <img  src="https://images.fonearena.com/blog/wp-content/uploads/2023/09/Android-new-logo-robotics.gif"  
        alt="droid" /></a>
 </div>
 
