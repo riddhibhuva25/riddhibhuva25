@@ -10,7 +10,7 @@
 
 <!--- bugdroid -->
 <div align="center">
-  <img  src="resources/droid.gif"  
+  <img  src="resources/droid-unscreen.gif"  
        alt="bugdroid" /></a>
 </div>
 
