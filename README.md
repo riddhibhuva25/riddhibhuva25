@@ -3,15 +3,15 @@
 
 <div id="user-content-toc" style="text-align: center;">
   <ul align="center">
-    <summary><h1 style="display: inline-block; margin-bottom: 10px;">Hey There! I'm Riddhi</h1></summary>
-    <subheading><h6 style="margin-top: 0px;">Android Developer</h6></subheading>
+    <summary><h1 style="display: inline-block; margin:0;">Hey There! I'm Riddhi</h1></summary>
+    <subheading><h6 style="margin: 0;">Android Developer</h6></subheading>
   </ul>
 </div>
 
-<!--- droid -->
+<!--- bugdroid -->
 <div align="center">
   <img  src="resources/droid.gif"  
-       alt="droid" /></a>
+       alt="bugdroid" /></a>
 </div>
 
 
@@ -26,12 +26,12 @@
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ritsii111&theme=light&show_icons=true&count_private=true" />
     <br></br>
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritsii111&theme=blueberry&hide_border=false" /> 
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritsii111&theme=light&hide_border=false" /> 
   </td>
   
   <td width="50%" align="center">
   
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritsii111&theme=blueberry&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritsii111&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     
   </td>
   </tr>
