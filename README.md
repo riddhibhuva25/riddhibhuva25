@@ -4,7 +4,7 @@
 <div id="user-content-toc" style="text-align: center;">
   <ul align="center">
     <summary><h1 style="display: inline-block; margin-bottom: 10px;">Hey There! I'm Riddhi</h1></summary>
-    <subheading><h6 style="margin-top: 2px;">Android Developer</h6></subheading>
+    <subheading><h6 style="margin-top: 0px;">Android Developer</h6></subheading>
   </ul>
 </div>
 
