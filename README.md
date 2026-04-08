@@ -61,7 +61,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,html,kotlin,firebase,git,github,python,anaconda,numpy,pandas,matplotlib,seaborn,scikitlearn,tensorflow,jupyternotebook,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,html,kotlin,firebase,git,github,python,anaconda,pytorch,flask,scikitlearn,tensorflow,vscode&perline=14" />
   </a>
 </p>
 
